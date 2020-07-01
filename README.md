@@ -1,7 +1,7 @@
 # Whatsapp-bot
 
 ## O que é?
- Este programa é um Bot que envia mensagens automaticamente pelo Whatsapp.
+ Este programa é um Bot feito com Python, tkinter e Selenium que envia mensagens automaticamente pelo Whatsapp.
 
 ## Preciso instalar algum programa ou pacote para executar este script?
 Sim. Você precisa instalar um módulo do python chamado selenium. Este módulo faz testes automatizados em navegadores da web. Você também precisa acessar o site: https://chromedriver.chromium.org/downloads e baixar o chromedriver conforme a versão do seu navegador Google Chrome. Coloque esse executável no diretório onde está o script para que o selenium possa usá-lo.
